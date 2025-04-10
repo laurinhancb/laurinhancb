@@ -1,6 +1,6 @@
 <p>Meu nome é Laura Nadiani Cirino Brianti, tenho 19 anos, curso Desenvolvimento de Software e Multiplataforma (DSM) na Fatec de Itapira (SP).</p>
 <p>Cursando 3/6.</p>
-<p>Gosto muito de programar e me interesso por programação front-end. Tenho muitos conhecimentos em HTML, CSS e Figma. No momento, estou adquirindo novos conhecimentos em JavaScript e Bootstrap para conseguir um estágio na minha área.</p>
+<p>Gosto muito de programar, tenho noções básicas de Lógica de Programação (condicionais, laços de repetição etc.)e Algoritmo e me interesso por programação front-end. Tenho muitos conhecimentos em HTML, CSS e Figma. No momento, estou adquirindo novos conhecimentos em JavaScript e Bootstrap para conseguir um estágio na minha área.</p>
 <p>Além disso, também estou em busca de novos conhecimentos em outras linguagens de programação, como Java, PHP e Python.</p>
 <p>Aqui estão as minhas fontes de contato:</p>
 <p align="justify">
